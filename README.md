@@ -6,15 +6,15 @@ Este trabalho consiste em um programa feito na linguagem C que organiza uma list
 
 ## Algoritmos Usados
 
-### 🔵 Bubble Sort
+###  Bubble Sort
 
 O Bubble Sort é o mais simples entre os três. Ele compara os elementos vizinhos e vai trocando de posição se estiverem fora de ordem. Apesar de ser fácil de entender e implementar, não é muito eficiente em listas grandes, pois faz muitas comparações e trocas.
 
-### 🟢 Merge Sort
+###  Merge Sort
 
 O Merge Sort é baseado na ideia de dividir a lista em partes menores, ordenar cada parte separadamente e depois juntar tudo de forma ordenada. Ele é bem eficiente mesmo com muitos dados, mas usa um pouco mais de memória por causa das divisões.
 
-### 🔴 Quick Sort
+###  Quick Sort
 
 O Quick Sort também divide a lista, mas escolhe um elemento como pivô e reorganiza os outros em torno dele (menores de um lado, maiores do outro). Depois repete isso nas partes menores. É rápido na maioria dos casos, mas se escolher um pivô ruim, pode ficar mais lento.
 
